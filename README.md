@@ -11,3 +11,8 @@ This works have been analyzed the Parkinsonian gaits using 5 different machine l
 4. Logistic regression.
 
 5. Support vector machines.  
+
+All the algorithms are trained using 70% of the data with selecting the random_state as 5. The performances of the models are verified using 30% of testing data.
+
+---
+## Data contribution

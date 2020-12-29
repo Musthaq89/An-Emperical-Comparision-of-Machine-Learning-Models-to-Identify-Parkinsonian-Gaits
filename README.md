@@ -26,12 +26,15 @@ link - https://physionet.org/content/gaitpdb/1.0.0/
 ---
 ## The libraries description
 
-*Pandas
+*Pandas - 0.24.2
 
-*Numpy
+*Numpy - 	1.16.2
 
-*Matplotlib
-*SKlearn
-*Tensorflow
-*Seaborn
+*Matplotlib - 3.0.3
+
+*scikit-learn - 0.20.3
+
+*Tensorflow - 1.13.1
+
+*Seaborn - 	0.9.0
 

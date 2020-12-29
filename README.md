@@ -27,7 +27,9 @@ link - https://physionet.org/content/gaitpdb/1.0.0/
 ## The libraries description
 
 *Pandas
+
 *Numpy
+
 *Matplotlib
 *SKlearn
 *Tensorflow

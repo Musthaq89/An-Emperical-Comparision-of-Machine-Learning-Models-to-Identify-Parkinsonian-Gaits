@@ -17,9 +17,10 @@ All the algorithms are trained using 70% of the data with selecting the random_s
 ---
 ## Data contribution
 
-The open accessable dataset is used for this study. it can be downloaded from
+The open accessable dataset is used for this study. it can be downloaded from,
 
 Goldberger, A., Amaral, L., Glass, L., Hausdorff, J., Ivanov, P.C., Mark, R., Mietus, J.E., Moody, G.B., Peng, C.K. and Stanley, H.E., 2000. PhysioBank, PhysioToolkit, and PhysioNet: Components of a new research resource for complex physiologic signals. Circulation [Online]. 101 (23), pp. e215–e220.
 
 link - https://physionet.org/content/gaitpdb/1.0.0/
 
+--

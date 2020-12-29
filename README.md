@@ -2,4 +2,8 @@
 
 This works have been analyzed the Parkinsonian gaits using 5 different machine learnig algorithms.
 
-*Artificial neural networks.
+1.Artificial neural networks.
+
+2.K-nearest neighbour.
+
+3.
